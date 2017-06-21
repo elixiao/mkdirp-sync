@@ -1,6 +1,6 @@
 # mkdirp-async
 
-> mkdir -p async in node.js
+> mkdir -p sync in node.js
 
 ## Install
 
