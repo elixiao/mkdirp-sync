@@ -1,10 +1,10 @@
 {
   "name": "mkdirp-sync",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "mkdir -p sync in node.js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test"
   },
   "keywords": [
     "mkdir",
@@ -13,5 +13,5 @@
     "sync"
   ],
   "author": "elixiao",
-  "license": "ISC"
+  "license": "MIT"
 }
