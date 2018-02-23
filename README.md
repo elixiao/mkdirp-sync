@@ -1,12 +1,12 @@
-# mkdirp-async
+# mkdirp-sync
 
 > mkdir -p sync in node.js
 
 ## Install
 
 ```bash
-npm install mkdirp-async --save
-yarn add mkdirp-async
+npm install mkdirp-sync --save
+yarn add mkdirp-sync
 ```
 
 
